@@ -2,7 +2,7 @@ const game = () => {
   let pScore = 0;
   let cScore = 0;
 
-  // Satrt the game
+  // Start the game
   const startGame = () => {
     const mainScreen = document.querySelector('.presentation');
     const playButton = document.querySelector('.presentation button');
