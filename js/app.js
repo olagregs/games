@@ -70,7 +70,7 @@ const game = () => {
 
       // Check for Rock
       if (playerChoice === 'pedra') {
-        if (computerChoice === 'scissors') {
+        if (computerChoice === 'tesoura') {
           winner.textContent = 'Você venceu'
           pScore++;
           updateScore();
