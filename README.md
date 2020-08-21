@@ -8,9 +8,11 @@
 &nbsp;
 
 <p align="center">
-  <!--
-   Necessário refatoração para adicionar as imagens
-  -->
+  <img src="./assets/screens/print01.jpg">
+  <img src="./assets/screens/print02.jpg">
+  <img src="./assets/screens/print03.jpg">
+  <img src="./assets/screens/print04.jpg">
+  <img src="./assets/screens/print05.jpg">
 </p>
 
 <p align="center">

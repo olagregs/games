@@ -40,8 +40,8 @@ const game = () => {
         compareHands(this.textContent, computerChoice);
 
         // Update Images
-        playerHand.src = `./assets/${this.textContent}.png`;
-        computerHand.src = `./assets/${computerChoice}.png`;
+        playerHand.src = `./assets/hands/${this.textContent}.png`;
+        computerHand.src = `./assets/hands/${computerChoice}.png`;
         }, 820)
 
         // Animation
