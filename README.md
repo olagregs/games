@@ -8,11 +8,11 @@
 &nbsp;
 
 <p align="center">
-  <img src="./assets/screens/print01.jpg">
-  <img src="./assets/screens/print02.jpg">
-  <img src="./assets/screens/print03.jpg">
-  <img src="./assets/screens/print04.jpg">
-  <img src="./assets/screens/print05.jpg">
+  <img src="./assets/screens/print01.png">
+  <img src="./assets/screens/print02.png">
+  <img src="./assets/screens/print03.png">
+  <img src="./assets/screens/print04.png">
+  <img src="./assets/screens/print05.png">
 </p>
 
 <p align="center">
